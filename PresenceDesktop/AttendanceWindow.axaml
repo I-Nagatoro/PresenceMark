@@ -1,0 +1,68 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="PresenceDesktop.AttendanceWindow"
+        x:CompileBindings="False"
+        Title="Посещаемость"
+        Width="850" Height="650"
+        WindowStartupLocation="CenterOwner"
+        Background="#f5f7fa"
+        FontFamily="Segoe UI">
+
+    <StackPanel Margin="25" Spacing="15">
+        <StackPanel Orientation="Horizontal" Spacing="15" HorizontalAlignment="Left">
+            <ComboBox Name="GroupComboBox" 
+                     Width="280"
+                     Height="40"
+                     Background="White"
+                     BorderBrush="#e0e0e0"
+                     BorderThickness="1"
+                     CornerRadius="4">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Name}" Padding="5" FontSize="14"/>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Calendar Name="DateCalendar"
+                     Background="White"
+                     BorderBrush="#e0e0e0"
+                     BorderThickness="1"
+                     CornerRadius="4"
+                     Padding="5"/>
+        </StackPanel>
+        <ListBox Name="AttendanceList" 
+                 Height="450"
+                 Background="White"
+                 BorderBrush="#e0e0e0"
+                 BorderThickness="1"
+                 CornerRadius="4"
+                 ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" 
+                                Spacing="15"
+                                VerticalAlignment="Center">
+                        <TextBlock Text="{Binding LessonId}"></TextBlock>
+                        <TextBlock Text="{Binding FIO}" 
+                                   VerticalAlignment="Center"
+                                   FontSize="14"
+                                   Width="250"/>
+                        <TextBlock Text="{Binding Status}" 
+                                   VerticalAlignment="Center"
+                                   FontSize="14"
+                                   Foreground="{Binding StatusColor}"
+                                   Margin="10,0,0,0"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Spacing="10">
+            <Button Content="Закрыть" 
+                   Width="100"
+                   Height="35"
+                   Background="#e0e0e0"
+                   Foreground="#2c3e50"
+                   CornerRadius="4"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

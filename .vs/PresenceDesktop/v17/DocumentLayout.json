@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presencedesktop\\presencedesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|solutionrelative:presencedesktop\\presencedesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presencedesktop\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|solutionrelative:presencedesktop\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presencedesktop\\app.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|solutionrelative:presencedesktop\\app.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presencedesktop\\attendancewindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|solutionrelative:presencedesktop\\attendancewindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presencedesktop\\groupwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|solutionrelative:presencedesktop\\groupwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A9004A-14CD-454F-B889-EFC900D4EB80}|PresenceAPI\\PresenceAPI.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presenceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62A9004A-14CD-454F-B889-EFC900D4EB80}|PresenceAPI\\PresenceAPI.csproj|solutionrelative:presenceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A9004A-14CD-454F-B889-EFC900D4EB80}|PresenceAPI\\PresenceAPI.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presenceapi\\presenceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{62A9004A-14CD-454F-B889-EFC900D4EB80}|PresenceAPI\\PresenceAPI.csproj|solutionrelative:presenceapi\\presenceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A9004A-14CD-454F-B889-EFC900D4EB80}|PresenceAPI\\PresenceAPI.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presenceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A9004A-14CD-454F-B889-EFC900D4EB80}|PresenceAPI\\PresenceAPI.csproj|solutionrelative:presenceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898D92B8-5901-4858-9F58-569F8844C2F5}|data\\data.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\data\\migrations\\remotedatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898D92B8-5901-4858-9F58-569F8844C2F5}|data\\data.csproj|solutionrelative:data\\migrations\\remotedatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898D92B8-5901-4858-9F58-569F8844C2F5}|data\\data.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\data\\remotedata\\remotedatabase\\remotedatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898D92B8-5901-4858-9F58-569F8844C2F5}|data\\data.csproj|solutionrelative:data\\remotedata\\remotedatabase\\remotedatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A9EC13-87A9-4D3B-8A25-568638CB2CAA}|PresenceConsole\\PresenceConsole.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presenceconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A9EC13-87A9-4D3B-8A25-568638CB2CAA}|PresenceConsole\\PresenceConsole.csproj|solutionrelative:presenceconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C8D7A-148D-45FF-9000-86877E8C8E01}|domain\\domain.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\domain\\usecase\\presenceusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C8D7A-148D-45FF-9000-86877E8C8E01}|domain\\domain.csproj|solutionrelative:domain\\usecase\\presenceusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BD11AD-29B9-4B5B-B2E4-7723F51D73D6}|UI\\UI.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\ui\\presenceconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BD11AD-29B9-4B5B-B2E4-7723F51D73D6}|UI\\UI.csproj|solutionrelative:ui\\presenceconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presencedesktop\\addoredituserwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|solutionrelative:presencedesktop\\addoredituserwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898D92B8-5901-4858-9F58-569F8844C2F5}|data\\data.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\data\\migrations\\20250514171149_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898D92B8-5901-4858-9F58-569F8844C2F5}|data\\data.csproj|solutionrelative:data\\migrations\\20250514171149_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898D92B8-5901-4858-9F58-569F8844C2F5}|data\\data.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\data\\migrations\\20250514171149_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898D92B8-5901-4858-9F58-569F8844C2F5}|data\\data.csproj|solutionrelative:data\\migrations\\20250514171149_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|c:\\users\\sokol\\riderprojects\\presencedesktop\\presencedesktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4BFF94-7DA5-41E6-A514-AD103B389F66}|PresenceDesktop\\PresenceDesktop.csproj|solutionrelative:presencedesktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PresenceDesktop.csproj",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\PresenceDesktop.csproj",
+              "RelativeDocumentMoniker": "PresenceDesktop\\PresenceDesktop.csproj",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\PresenceDesktop.csproj",
+              "RelativeToolTip": "PresenceDesktop\\PresenceDesktop.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T17:31:29.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RemoteDatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\data\\Migrations\\RemoteDatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "data\\Migrations\\RemoteDatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\data\\Migrations\\RemoteDatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "data\\Migrations\\RemoteDatabaseContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:31:13.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemoteDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\data\\RemoteData\\RemoteDatabase\\RemoteDatabaseContext.cs",
+              "RelativeDocumentMoniker": "data\\RemoteData\\RemoteDatabase\\RemoteDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\data\\RemoteData\\RemoteDatabase\\RemoteDatabaseContext.cs",
+              "RelativeToolTip": "data\\RemoteData\\RemoteDatabase\\RemoteDatabaseContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:31:10.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceConsole\\Program.cs",
+              "RelativeDocumentMoniker": "PresenceConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceConsole\\Program.cs",
+              "RelativeToolTip": "PresenceConsole\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:31:04.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PresenceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceAPI\\Program.cs",
+              "RelativeToolTip": "PresenceAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:31:02.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PresenceAPI.http",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceAPI\\PresenceAPI.http",
+              "RelativeDocumentMoniker": "PresenceAPI\\PresenceAPI.http",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceAPI\\PresenceAPI.http",
+              "RelativeToolTip": "PresenceAPI\\PresenceAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-14T17:30:49.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PresenceAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PresenceAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T17:30:46.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\GroupWindow.axaml",
+              "RelativeDocumentMoniker": "PresenceDesktop\\GroupWindow.axaml",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\GroupWindow.axaml",
+              "RelativeToolTip": "PresenceDesktop\\GroupWindow.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T17:30:45.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendanceWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\AttendanceWindow.axaml",
+              "RelativeDocumentMoniker": "PresenceDesktop\\AttendanceWindow.axaml",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\AttendanceWindow.axaml",
+              "RelativeToolTip": "PresenceDesktop\\AttendanceWindow.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T17:30:44.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\app.manifest",
+              "RelativeDocumentMoniker": "PresenceDesktop\\app.manifest",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\app.manifest",
+              "RelativeToolTip": "PresenceDesktop\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-05-14T17:30:43.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\App.axaml",
+              "RelativeDocumentMoniker": "PresenceDesktop\\App.axaml",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\App.axaml",
+              "RelativeToolTip": "PresenceDesktop\\App.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T17:30:42.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PresenceUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\domain\\UseCase\\PresenceUseCase.cs",
+              "RelativeDocumentMoniker": "domain\\UseCase\\PresenceUseCase.cs",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\domain\\UseCase\\PresenceUseCase.cs",
+              "RelativeToolTip": "domain\\UseCase\\PresenceUseCase.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAFcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:30:57.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PresenceConsole.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\UI\\PresenceConsole.cs",
+              "RelativeDocumentMoniker": "UI\\PresenceConsole.cs",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\UI\\PresenceConsole.cs",
+              "RelativeToolTip": "UI\\PresenceConsole.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAE8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:30:51.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddOrEditUserWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\AddOrEditUserWindow.axaml",
+              "RelativeDocumentMoniker": "PresenceDesktop\\AddOrEditUserWindow.axaml",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\AddOrEditUserWindow.axaml",
+              "RelativeToolTip": "PresenceDesktop\\AddOrEditUserWindow.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T17:30:40.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250514171149_Init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\data\\Migrations\\20250514171149_Init.Designer.cs",
+              "RelativeDocumentMoniker": "data\\Migrations\\20250514171149_Init.Designer.cs",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\data\\Migrations\\20250514171149_Init.Designer.cs",
+              "RelativeToolTip": "data\\Migrations\\20250514171149_Init.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:30:39.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250514171149_Init.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\data\\Migrations\\20250514171149_Init.cs",
+              "RelativeDocumentMoniker": "data\\Migrations\\20250514171149_Init.cs",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\data\\Migrations\\20250514171149_Init.cs",
+              "RelativeToolTip": "data\\Migrations\\20250514171149_Init.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwFsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:30:36.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\Program.cs",
+              "RelativeDocumentMoniker": "PresenceDesktop\\Program.cs",
+              "ToolTip": "C:\\Users\\sokol\\RiderProjects\\PresenceDesktop\\PresenceDesktop\\Program.cs",
+              "RelativeToolTip": "PresenceDesktop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:30:29.515Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 993,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
